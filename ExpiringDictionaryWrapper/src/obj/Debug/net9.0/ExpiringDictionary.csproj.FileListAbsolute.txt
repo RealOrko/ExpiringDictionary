@@ -1,0 +1,12 @@
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/ExpiringDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/ExpiringDictionary.AssemblyInfoInputs.cache
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/ExpiringDictionary.AssemblyInfo.cs
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/ExpiringDictionary.csproj.CoreCompileInputs.cache
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/bin/Debug/net9.0/lib/libExpiringDictionary.so
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/bin/Debug/net9.0/ExpiringDictionary.deps.json
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/bin/Debug/net9.0/ExpiringDictionary.dll
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/bin/Debug/net9.0/ExpiringDictionary.pdb
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/ExpiringDictionary.dll
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/refint/ExpiringDictionary.dll
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/ExpiringDictionary.pdb
+/home/gavin/code/CSharpDictionary/ExpiringDictionaryWrapper/src/obj/Debug/net9.0/ref/ExpiringDictionary.dll
